@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  margin: 2px auto;
+}
+body{
+   background-image:url("./img/c2.png"); 
+  width:100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:rgb(255, 255, 255);
+}
+/* 
+.App img{
+  opacity: 0.5;
+  background-image:url("./img/c.jpg"); 
+  width:100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+} */

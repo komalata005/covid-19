@@ -1,0 +1,28 @@
+.card-main{
+float: left;}
+.pos {
+    margin-bottom: 5px;
+  }
+  .death{
+    color:rgb(255, 255, 255) !important;
+    font-weight: 600 !important;
+
+}.new{
+    color:rgb(255, 255, 255) !important;
+    font-weight: 600 !important;
+    
+}.rec{
+    color:rgb(255, 255, 255) !important;
+    font-weight: 600 !important;
+   
+}
+.card-root1{
+    background-color: rgb(2, 129, 255) !important;
+}
+.card-root2
+{
+    background-color: rgb(230, 46, 14) !important;
+}
+.card-root3{
+    background-color: rgb(8, 88, 6) !important;
+}
